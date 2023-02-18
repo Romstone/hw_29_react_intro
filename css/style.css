@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    background-color: #badbcc;
+}
+.card {
+    background-color: #badbcc;
+    width: 50%;
+    margin: 10px 0 10px 0;
+}
+.form-control, .form-label, .btn-success {
+    width: 90%;
+    margin: 0 auto;
+}
+#list {
+    background-color: white;
+}
